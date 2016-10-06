@@ -1,11 +1,14 @@
 div {
     margin-top:20px;
     margin-bottom:20px;
+    text-align: center;
+
 }
 
 img {
     width: 100%;
     height: 100%;
+
 
 }
 
@@ -31,6 +34,15 @@ p {
 #charts{
     width: 60%;
     height:auto;
+    border: 2px solid lightslategrey;
+}
+
+#maps{
+    border: 2px solid lightslategrey;
+}
+
+#tabs {
+    border: 2px solid lightslategrey;
 }
 
 a {
